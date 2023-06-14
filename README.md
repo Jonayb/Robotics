@@ -1,6 +1,6 @@
 # Robotics
 ## MountainCarContinuous
-![](https://github.com/Jonayb/Robotics/MC.gif)
+![](https://github.com/Jonayb/Robotics/src/MountainCarContinuous-v0_2023-09-14-16-09-39.gif)
 
 ## LunarLanderContinuous
 ![](https://github.com/Jonayb/Robotics/LL.gif)
